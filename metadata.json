@@ -1,0 +1,10 @@
+{
+  "name": "Remix HERE4U ERP — UBL Maintenance \u0026 Operations",
+  "description": "Complete ERP for UBL Bank maintenance, repair work management, field operations, procurement, consolidated billing, tax deductions, and payment allocation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
